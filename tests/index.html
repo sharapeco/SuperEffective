@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Test Page for Content Blocker</title>
+<style>
+body { font-family: sans-serif; }
+p { margin: 0; }
+.test { margin: 10px 0; padding: 12px 15px; border: solid 1px #ddd; border-radius: 4px; }
+.test-hd { margin: -12px -15px 12px; padding: 8px 15px; font-size: 100%; font-weight: 300; background: #f4f4f4; border-radius: 4px 4px 0 0; }
+</style>
+</head>
+<body>
+
+<h1>Test Page for Content Blocker</h1>
+<p>Content content content content content content content content content content content content content content content content content content content content content content content content</p>
+
+<div class="test">
+	<h2 class="test-hd">&lt;img alt="suzume" src="headphone-suzume.jpg"&gt;</h2>
+	<p><img alt="suzume" src="headphone-suzume.jpg"></p>
+</div>
+
+<div class="test">
+	<h2 class="test-hd">&lt;img alt="suzume" src="headphone-suzume.jpg" class="ad-img-display"&gt;</h2>
+	<p><img alt="suzume" src="headphone-suzume.jpg" class="ad-img-display"></p>
+</div>
+
+<div class="test">
+	<h2 class="test-hd">&lt;img alt="suzume" src="headphone-suzume.jpg" class="ad-img-block"&gt;</h2>
+	<p><img alt="suzume" src="headphone-suzume.jpg" class="ad-img-block"></p>
+</div>
+
+<div class="test">
+	<h2 class="test-hd">&lt;script src="https://suzume.cc/tests/ad.js"&gt;&lt;/script&gt;</h2>
+	<script src="https://suzume.cc/tests/ad.js"></script>
+</div>
+
+<div class="test">
+	<h2 class="test-hd">&lt;p class="ad-p-display"&gt;Text&lt;/p&gt;</h2>
+	<p class="ad-p-display">Text</p>
+</div>
+
+<div class="test">
+	<h2 class="test-hd">&lt;p class="ad-p-block"&gt;Text&lt;/p&gt;</h2>
+	<p class="ad-p-block">Text</p>
+</div>
+
+</body>
+</html>

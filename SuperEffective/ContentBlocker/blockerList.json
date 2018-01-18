@@ -1,0 +1,1102 @@
+[
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?2o7\\.net[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?a\\.adroll\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?ad\\.primead\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?ad-arata\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?adcash\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?addthis\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?adlantis\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?adkengage\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?adjust-net\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?adresult\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?adservice\\.google\\.co\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?adservice\\.google\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?ad-stir\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?ad-feed\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?adtechjp\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?advertising\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?advg\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?agkn\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?amoad\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?api\\.unthem\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?apvdr\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?assets\\.gunosy\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?atwola\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?b3\\.yahoo\\.co\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?bidswitch\\.net[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?bigmining\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?bktrx\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?bluekai\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?criteo\\.net[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?criteo\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?cdn\\.optimizely\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?cho-ro\\.club[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?company-target\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?coremetrics\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?criteo\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?d\\.adroll\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?deqwas\\.net[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?domdex\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?doubleclick\\.net[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?dsum-sec\\.casalemedia\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?edge\\.simplereach\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?eimg\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?exoclick\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?fout\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?genieesspv\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?gmossp-sp\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?googleadservices\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?googlesyndication\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?pagead2\\.googlesyndication\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?google-analytics\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?googletagmanager\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?googletagservices\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?gssp\\.asia[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?gsspat\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?gsspcln\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?gssprt\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?i2ad\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?i-mobile\\.co\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?im-apps\\.net[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?impact-ad\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?loading-delivery1\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?microad\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?moatads\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?mtcs\\.nhk\\.or\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?nakanohito\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?native\\.sharethrough\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?nr-data\\.net[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?openx\\.net[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?openxmarket\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?outbrain\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?pixel\\.facebook\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?popin\\.cc[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?pubmatic\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?quantumads\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?revcontent\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?revsci\\.net[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?rlcdn\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?rtoaster\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?rubiconproject\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?s\\.adroll\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?s\\.thebrighttag\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?scorecardresearch\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?secure\\.eloqua\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?skimresources\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?socdm\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?spdeliver\\.i-mobile\\.co\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?taboola\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?tacoda\\.net[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?textad\\.net[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?trafficfactory\\.biz[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?xml\\.affiliate\\.rakuten\\.co\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?yads\\.c\\.yimg\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?b90\\.yahoo\\.co\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?b91\\.yahoo\\.co\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?yads\\.yahoo\\.co\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?ybx\\.yahoo\\.co\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?yjtag\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?ziyu\\.net[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?zimg\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/suzume.cc\/.*\/ad\\.js",
+            "resource-type": [
+                "script"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    }
+]
