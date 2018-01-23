@@ -30,7 +30,7 @@ $rules = array_map(function($domain) {
 $rules[] = [
 	// Test rule
 	'trigger' => [
-		'url-filter' => '^[^:]+://suzume.cc/.*/ad\\.js',
+		'url-filter' => '^[^:]+://suzume\\.cc/.*/ad\\.js',
 		'resource-type' => ['script'],
 	],
 	'action' => [
