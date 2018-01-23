@@ -1090,7 +1090,7 @@
     },
     {
         "trigger": {
-            "url-filter": "^[^:]+:\/\/suzume.cc\/.*\/ad\\.js",
+            "url-filter": "^[^:]+:\/\/suzume\\.cc\/.*\/ad\\.js",
             "resource-type": [
                 "script"
             ]
