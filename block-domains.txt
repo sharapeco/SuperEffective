@@ -43,6 +43,7 @@ bigmining.com
 bktrx.com
 bluekai.com
 buysellads.com
+carambo.la
 cdn.optimizely.com
 chartbeat.com
 cho-ro.club
@@ -54,12 +55,14 @@ cxense.com
 d.adroll.com
 deqwas.net
 dga.jp
+districtm.io
 dlv.itmedia.jp
 domdex.com
 doubleclick.net
 dsum-sec.casalemedia.com
 edge.simplereach.com
 eimg.jp
+evyy.net
 exoclick.com
 fc.itmedia.co.jp
 fout.jp
@@ -78,6 +81,7 @@ i-mobile.co.jp
 i2ad.jp
 im-apps.net
 impact-ad.jp
+impactradius.com
 krxd.net
 ks.yomidr.jp
 loading-delivery1.com
@@ -96,6 +100,7 @@ optimizely.com
 outbrain.com
 pagead2.googlesyndication.com
 pixel.facebook.com
+pixel.watch
 popin.cc
 ptengine.jp
 pubmatic.com
@@ -119,6 +124,7 @@ taboola.com
 tacoda.net
 textad.net
 trafficfactory.biz
+tynt.com
 xml.affiliate.rakuten.co.jp
 yads.c.yimg.jp
 yads.yahoo.co.jp
