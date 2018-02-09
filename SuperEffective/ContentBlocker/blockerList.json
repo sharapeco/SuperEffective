@@ -474,6 +474,17 @@
     },
     {
         "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?carambo\\.la[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
             "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?cdn\\.optimizely\\.com[:\/]",
             "load-type": [
                 "third-party"
@@ -595,6 +606,17 @@
     },
     {
         "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?districtm\\.io[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
             "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?dlv\\.itmedia\\.jp[:\/]",
             "load-type": [
                 "third-party"
@@ -651,6 +673,17 @@
     {
         "trigger": {
             "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?eimg\\.jp[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?evyy\\.net[:\/]",
             "load-type": [
                 "third-party"
             ]
@@ -859,6 +892,17 @@
     },
     {
         "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?impactradius\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
             "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?krxd\\.net[:\/]",
             "load-type": [
                 "third-party"
@@ -1047,6 +1091,17 @@
     {
         "trigger": {
             "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?pixel\\.facebook\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?pixel\\.watch[:\/]",
             "load-type": [
                 "third-party"
             ]
@@ -1300,6 +1355,17 @@
     {
         "trigger": {
             "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?trafficfactory\\.biz[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?tynt\\.com[:\/]",
             "load-type": [
                 "third-party"
             ]
