@@ -25,6 +25,7 @@ advertising.com
 advg.jp
 agkn.com
 akamaihd.net
+amazon-adsystem.com
 amoad.com
 ap.octopuspop.com
 api.flipdesk.jp
@@ -44,6 +45,7 @@ bktrx.com
 bluekai.com
 buysellads.com
 carambo.la
+casalemedia.com
 cdn.optimizely.com
 chartbeat.com
 cho-ro.club
@@ -59,7 +61,6 @@ districtm.io
 dlv.itmedia.jp
 domdex.com
 doubleclick.net
-dsum-sec.casalemedia.com
 edge.simplereach.com
 eimg.jp
 evyy.net
@@ -93,6 +94,7 @@ moatads.com
 mtcs.nhk.or.jp
 nakanohito.jp
 native.sharethrough.com
+newrelic.com
 nr-data.net
 openx.net
 openxmarket.jp

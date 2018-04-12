@@ -276,6 +276,17 @@
     },
     {
         "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?amazon-adsystem\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
             "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?amoad\\.com[:\/]",
             "load-type": [
                 "third-party"
@@ -485,6 +496,17 @@
     },
     {
         "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?casalemedia\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
             "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?cdn\\.optimizely\\.com[:\/]",
             "load-type": [
                 "third-party"
@@ -640,17 +662,6 @@
     {
         "trigger": {
             "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?doubleclick\\.net[:\/]",
-            "load-type": [
-                "third-party"
-            ]
-        },
-        "action": {
-            "type": "block"
-        }
-    },
-    {
-        "trigger": {
-            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?dsum-sec\\.casalemedia\\.com[:\/]",
             "load-type": [
                 "third-party"
             ]
@@ -1014,6 +1025,17 @@
     {
         "trigger": {
             "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?native\\.sharethrough\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?newrelic\\.com[:\/]",
             "load-type": [
                 "third-party"
             ]
