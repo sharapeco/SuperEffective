@@ -628,6 +628,17 @@
     },
     {
         "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?digitaloceanspaces\\.com[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
             "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?districtm\\.io[:\/]",
             "load-type": [
                 "third-party"
@@ -662,6 +673,17 @@
     {
         "trigger": {
             "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?doubleclick\\.net[:\/]",
+            "load-type": [
+                "third-party"
+            ]
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter": "^[^:]+:\/\/([^:\/]+\\.)?ebis\\.ne\\.jp[:\/]",
             "load-type": [
                 "third-party"
             ]
